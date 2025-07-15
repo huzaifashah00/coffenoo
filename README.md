@@ -5,7 +5,7 @@ A beautiful and intuitive coffee shop mobile application built with Flutter, fea
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="screenshots/onboarding.png" width="200" alt="Onboarding Screen">
+  <img src="screenshots/Slider 3.jpg" width="200" alt="Onboarding Screen">
   <img src="screenshots/home.png" width="200" alt="Home Screen">
   <img src="screenshots/coffee_detail.png" width="200" alt="Coffee Detail">
   <img src="screenshots/cart.png" width="200" alt="Cart Screen">
