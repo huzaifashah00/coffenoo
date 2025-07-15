@@ -5,10 +5,14 @@ A beautiful and intuitive coffee shop mobile application built with Flutter, fea
 ## 📱 Screenshots
 
 <div align="center">
+  <img src="screenshorts/Slider1.jpg" width="200" alt="Slider">
+  <img src="screenshorts/Slider2.jpg" width="200" alt="Slider">
+  <img src="screenshorts/Slider 3.jpg" width="200" alt="Slider">
+  <img src="screenshorts/home Screen.jpg" width="200" alt="Home Screen">
   <img src="screenshorts/Detail Screen.jpg" width="200" alt="Detail Screen">
-  <img src="screenshots/home.png" width="200" alt="Home Screen">
-  <img src="screenshots/coffee_detail.png" width="200" alt="Coffee Detail">
-  <img src="screenshots/cart.png" width="200" alt="Cart Screen">
+  <img src="screenshorts/Favorite.jpg" width="200" alt="Home Screen">
+  <img src="screenshorts/Check out.jpg" width="200" alt="Coffee Detail">
+  <img src="screenshorts/Setting.jpg" width="200" alt="Cart Screen">
 </div>
 
 ## ✨ Features
